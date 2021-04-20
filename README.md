@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img align="left" alt="jayshil's GitHub Stats" src="https://github-readme-stats-zeta-blond.vercel.app/api?username=jayshilj&show_icons=true&hide_border=true" />
+
+
 <!--
 **jayshilj/jayshilj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
